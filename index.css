@@ -125,6 +125,7 @@ header,
 .feature-image {
     width: 48.8%;
     border-radius: 4.6px;
+    margin-bottom: 1em;
 }
 
 footer {
