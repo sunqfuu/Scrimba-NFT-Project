@@ -18,7 +18,7 @@ h1 {
 
 h2 {
   color: #451c7a;
-  font-size: 1.75rem;
+  font-size: 1.75rem; /* update initial font-size */
   margin-top: 0;
 }
 
@@ -32,7 +32,7 @@ p {
 
 .subheading {
   display: block;
-  font-size: 1.25rem;
+  font-size: 1.25rem; /* update initial font-size */
   color: #d0aaff;
 }
 
