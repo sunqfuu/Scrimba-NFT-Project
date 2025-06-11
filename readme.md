@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/KYJnp2q3jH8AAAAC/nft-art.gif" width="400" />
+  <img src="https://media.giphy.com/media/IoX6UVQz9WNbZoLjxF/giphy.gif" width="400" alt="NFT art animated GIF" />
 </p>
 
 ---
