@@ -20,6 +20,13 @@ This is a stylish **NFT Preview Card Component**, built as part of the [Scrimba 
 
 ---
 
+## 🌍 Live Demo
+
+🚀 Explore the project live here:  
+👉 [https://sunqfuu.github.io/Scrimba-NFT-Project/](https://sunqfuu.github.io/Scrimba-NFT-Project/)
+
+---
+
 ## 🔥 Features
 
 - 💎 Beautiful NFT card layout
